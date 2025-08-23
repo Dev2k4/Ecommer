@@ -24,7 +24,7 @@ export const routes = [
     {
         path:'*',
         page:NotFoundPage,
-        isShowHeader: true
+        isShowHeader: false
 
     },
 ]
