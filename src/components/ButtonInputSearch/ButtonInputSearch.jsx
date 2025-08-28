@@ -24,7 +24,6 @@ const ButtonInputSearch = (props) => {
             textButton = {textButton}
             styleTextButton={{color: colorButton}}
             >
-            
         </ButtonComponent>
     </div>
   )
